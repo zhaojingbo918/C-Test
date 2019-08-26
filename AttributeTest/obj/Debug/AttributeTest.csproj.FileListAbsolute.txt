@@ -1,0 +1,7 @@
+E:\code\CSharpTest\AttributeTest\bin\Debug\AttributeTest.exe.config
+E:\code\CSharpTest\AttributeTest\bin\Debug\AttributeTest.exe
+E:\code\CSharpTest\AttributeTest\bin\Debug\AttributeTest.pdb
+E:\code\CSharpTest\AttributeTest\obj\Debug\AttributeTest.csprojAssemblyReference.cache
+E:\code\CSharpTest\AttributeTest\obj\Debug\AttributeTest.csproj.CoreCompileInputs.cache
+E:\code\CSharpTest\AttributeTest\obj\Debug\AttributeTest.exe
+E:\code\CSharpTest\AttributeTest\obj\Debug\AttributeTest.pdb
